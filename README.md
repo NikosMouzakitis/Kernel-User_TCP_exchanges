@@ -1,4 +1,4 @@
-# Kernel-User_TCP_exchanges (kernel networking)
+# Kernel-User_TCP_exchanges (kernel networking, run on Linux Debian 4.9)
 Module and a client in user level, that sends a message to get a reply from the server(module inserted previously in kernel)
 
 After inserting module in the kernel (insmod or by using the ./load.sh script), using the start_server_command.sh will make the module initialize and start running a 
